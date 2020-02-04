@@ -1,0 +1,7 @@
+D:\dotnet\Dotnetpracticals\Practical4\obj\Debug\Practical4.csprojAssemblyReference.cache
+D:\dotnet\Dotnetpracticals\Practical4\obj\Debug\Practical4.csproj.CoreCompileInputs.cache
+D:\dotnet\Dotnetpracticals\Practical4\bin\Debug\Practical4.exe.config
+D:\dotnet\Dotnetpracticals\Practical4\bin\Debug\Practical4.exe
+D:\dotnet\Dotnetpracticals\Practical4\bin\Debug\Practical4.pdb
+D:\dotnet\Dotnetpracticals\Practical4\obj\Debug\Practical4.exe
+D:\dotnet\Dotnetpracticals\Practical4\obj\Debug\Practical4.pdb
