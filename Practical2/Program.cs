@@ -18,10 +18,14 @@ namespace Practical2
                 name = Console.ReadLine();
             } while (!Regex.IsMatch(name, "^[a-zA-Z]+$"));
 
-            Console.WriteLine("where are you from?");
-            country = Console.ReadLine();
+            do
+            {
+                Console.WriteLine("where are you from?");
+                country = Console.ReadLine();
+            } while (!Regex.IsMatch(country, "^[a-zA-Z]+$"));
 
-            Console.WriteLine("hi,"+ name + " from " + country);
+
+            Console.WriteLine("hi," + name + " from " + country);
             Console.ReadLine();
         }
     }
